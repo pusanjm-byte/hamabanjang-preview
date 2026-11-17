@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520" role="img" aria-labelledby="map-t map-d" font-family="Pretendard, sans-serif">
+<title id="map-t">관리 건물 주변 대략 약도</title>
+<desc id="map-d">지하철 1호선 온천장역·명륜역·동래역, 4호선, 온천천, 중앙대로와 온천동 주택가를 그린 약도입니다. 관리 건물 주변은 흐린 초록 원으로만 표시했고, 정확한 위치는 표시하지 않았습니다.</desc>
+<path d="M0 0H600V520H0Z" fill="#F7F2E8"/>
+<path d="M622 -10 C585 60 560 100 532 150 C496 214 458 252 436 296 C420 330 416 380 414 424 C412 460 410 500 408 530" fill="none" stroke="#1F5C4A" stroke-opacity=".22" stroke-width="22" stroke-linecap="round"/>
+<text x="470" y="250" font-size="23" font-weight="800" fill="#1F5C4A">온천천</text>
+<path d="M542 -10 L460 151 L362 293 L346 421 L340 530" fill="none" stroke="#D9D3C8" stroke-width="20" stroke-linejoin="round"/>
+<path d="M554 -10 L472 151 L374 293 L358 421 L352 530" fill="none" stroke="#E9785B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="438" y="44" font-size="20" font-weight="800" fill="#B44A30">1호선</text>
+<path d="M358 421 C310 426 270 432 232 438" fill="none" stroke="#2B2B2B" stroke-width="5" stroke-dasharray="14 8"/>
+<path d="M358 421 C392 446 428 474 470 500" fill="none" stroke="#2B2B2B" stroke-width="5" stroke-dasharray="14 8"/>
+<text x="224" y="426" text-anchor="end" font-size="19" font-weight="800" fill="#2B2B2B">4호선</text>
+<text x="224" y="450" text-anchor="end" font-size="18" font-weight="700" fill="#57514A">미남 방향</text>
+<text x="478" y="508" font-size="18" font-weight="700" fill="#57514A">수안 방향</text>
+<path d="M160 120 C220 88 350 96 388 128 C392 186 372 244 336 296 C270 320 176 320 150 282 C126 240 130 160 160 120 Z" fill="#E6DECF"/>
+<text x="160" y="304" font-size="21" font-weight="800" fill="#57514A">온천동 주택가</text>
+<text transform="translate(322 412) rotate(-83)" font-size="20" font-weight="700" fill="#57514A">중앙대로</text>
+<circle cx="282" cy="196" r="60" fill="#1F5C4A" fill-opacity=".18" stroke="#1F5C4A" stroke-width="2.5" stroke-dasharray="7 6"/>
+<text x="282" y="190" text-anchor="middle" font-size="19" font-weight="800" fill="#1F5C4A">관리 건물</text>
+<text x="282" y="214" text-anchor="middle" font-size="19" font-weight="800" fill="#1F5C4A">주변</text>
+<g font-size="22" font-weight="800" fill="#2B2B2B">
+<circle cx="472" cy="151" r="10" fill="#fff" stroke="#2B2B2B" stroke-width="4"/><text x="490" y="159">온천장역</text>
+<circle cx="374" cy="293" r="10" fill="#fff" stroke="#2B2B2B" stroke-width="4"/><text x="392" y="301">명륜역</text>
+<circle cx="358" cy="421" r="11" fill="#fff" stroke="#2B2B2B" stroke-width="4"/><text x="378" y="404">동래역</text>
+</g>
+<g transform="translate(24 470)"><path d="M0 0H100" stroke="#2B2B2B" stroke-width="3"/><path d="M0 -6V6M100 -6V6" stroke="#2B2B2B" stroke-width="3"/><text x="0" y="26" font-size="18" fill="#57514A">약 500m (대략)</text></g>
+<g transform="translate(40 42)" fill="#2B2B2B"><path d="M0 -18 L8 6 L0 0 L-8 6Z"/><text x="0" y="28" text-anchor="middle" font-size="18" font-weight="800">북</text></g>
+</svg>
